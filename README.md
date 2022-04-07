@@ -1,5 +1,5 @@
 # portfolio-project-one
-First portfolio project as a byproduct of my CS 161/162 computer science studies at Oregon State University.
+Portfolio project as a byproduct of my CS 161/162 computer science studies at Oregon State University.
 This project file, HasamiShogiGame.py, contains a class named HasamiShogiGame that includes the attributes and methods necessary to play
 the abstract boardgame hasami shogi, specifically for "Variant 1" on [the Wikipedia page](https://en.wikipedia.org/wiki/Hasami_shogi).
 
